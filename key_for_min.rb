@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   name_hash.collect do |key, value|
-    if lowest_key == 0 ||value 
+    
 end
